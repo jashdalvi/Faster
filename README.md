@@ -5,7 +5,7 @@ Faster is a Python library for extracting features through the last layer of Res
 ## Installation
 
 ```bash
-git clone 
+git clone https://github.com/jashdalvi/Faster.git
 pip install -r requirements.txt
 ```
 
